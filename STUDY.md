@@ -116,3 +116,4 @@ Kalau tidak, katakan terus terang bahwa itu konsumsi, bukan belajar.
 |---|---|---|---|---|
 | 2026-11-07 | Setup & perencanaan | Memilih jalur "membangun produk dengan AI" | — | Minggu 1: satu skrip Python yang memanggil satu API publik, ditulis sendiri |
 | 2026-11-10 | Python dasar: print, variabel, string vs int | Membuat variabel, menimpa isi variabel, membedakan string dan int, menggabung teks dengan + dan str() | Membaca nama error (TypeError vs SyntaxError); belum paham betul beda koma vs + di print | Program kecil kedua: tanya nama dan umur lewat input(), lalu menyapa |
+| 2026-11-10 (Day 2) | input() | Memakai input() dan menyimpan jawaban ke variabel, menyambung teks dengan + | Belum terbukti sendiri bahwa input() selalu mengembalikan teks (cek type(umur)); menghindari perhitungan umur+1, belum mencoba konversi tipe | Day 3: jalankan type(umur), hitung umur tahun depan dari umur sekarang, lalu mulai if/else |
