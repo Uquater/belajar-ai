@@ -2,7 +2,7 @@ umur = 20
 umur = 21
 testing = "umur"
 
-nama = "Adhim"
+nama = "Siswa"
 
 print(umur)
 print(testing)
